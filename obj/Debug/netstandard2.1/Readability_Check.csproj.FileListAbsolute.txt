@@ -8,7 +8,6 @@ F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\RazorDe
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\RazorDeclaration\Pages\TextTest.razor.g.cs
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\RazorDeclaration\Readability_Check.dll
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readability_Check.TagHelpers.input.cache
@@ -20,7 +19,6 @@ F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Razor\P
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Razor\Pages\TextTest.razor.g.cs
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 F:\PROJECTS\Readability_Check\Readability_Check\bin\Debug\netstandard2.1\Properties\launchSettings.json
 F:\PROJECTS\Readability_Check\Readability_Check\bin\Debug\netstandard2.1\Readability_Check.StaticWebAssets.xml
@@ -355,7 +353,7 @@ F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readabi
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readability_Check.pdb
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\FLwBqZMiaAql31wYrTgKebwen1fXH07Ir89LOz_6ucg=.hash
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\bhbbefJTJKeq8MYhMBnT9I9085A_ixeFHaILXheyeL4=.hash
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\ipm4iCFRL1MkNJk9hj6g1471oWFzLZ8lo2Fom6dYG7I=.hash
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\CIt7ZgeZQu6CGUhi6qj8LBW51CNvaRaa3sEAtHUJvho=.hash
+F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\UPZfwOkaK32OQvUv1aI5EiSj5cb-gXboNx0tx85xJ30=.hash
+F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\GNVgw_AW5CFoBl-wGavXHDSzLA8xWUfCGCebX88SpJs=.hash
+F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\pcCwQvXnkjl4OiF17Z3Hjh_HjueEspTy20e4KMB3nk4=.hash
+F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\9kBo4MWG7Q7ZEvf04-ejfs7mJjg1z80uqVHqiD47eWA=.hash
