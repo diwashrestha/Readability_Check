@@ -9,23 +9,25 @@ namespace Readability_Check.Pages
 
         private string userInput { get; set; } = "";
         private int characterCount { get; set; } = 0;
-        private int wordCount = 0;
-        private int sentenceCount = 0;
-        private int syllableCount = 0;
-        private int polysyllableCount = 0;
-        private float ariScore = 0;
-        private float fkrScore = 0;
-        private float smgScore = 0;
-        private float cliScore = 0;
-        private int ariAge = 0;
-        private int fkrAge = 0;
-        private int smgAge = 0;
-        private int cliAge = 0;
-        private double avgAge = 0;
-        private float avgScore = 0;
-        private string avgGradeLevel = "";
+        private int wordCount { get; set; } = 0;
+        private int sentenceCount { get; set; } = 0;
+        private float avgWordCount { get; set; } = 0;
+        private float avgCharacterCount { get; set; } = 0;
+        private int syllableCount { get; set; } = 0;
+        private int polysyllableCount { get; set; } = 0;
+        private float ariScore { get; set; } = 0;
+        private float fkrScore { get; set; } = 0;
+        private float smgScore { get; set; } = 0;
+        private float cliScore { get; set; } = 0;
+        private int ariAge { get; set; } = 0;
+        private int fkrAge { get; set; } = 0;
+        private int smgAge { get; set; } = 0;
+        private int cliAge { get; set; } = 0;
+        private double avgAge { get; set; } = 0;
+        private float avgScore { get; set; } = 0;
+        private string avgGradeLevel { get; set; } = "";
 
-        private bool IsShow = true;
+        private bool IsShow { get; set; } = true;
 
 
 
@@ -40,7 +42,14 @@ namespace Readability_Check.Pages
             SmogTest();
             CliTest();
             Show();
+            AvgWord();
 
+        }
+
+        public void AvgWord()
+        {
+            avgCharacterCount = characterCount / wordCount;
+            avgWordCount = wordCount / sentenceCount;
         }
 
         private void Show()

@@ -1,4 +1,3 @@
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readability_Check.csprojAssemblyReference.cache
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readability_Check.AssemblyInfoInputs.cache
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readability_Check.AssemblyInfo.cs
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readability_Check.csproj.CoreCompileInputs.cache
@@ -179,7 +178,6 @@ F:\PROJECTS\Readability_Check\Readability_Check\bin\Debug\netstandard2.1\System.
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readability_Check.RazorTargetAssemblyInfo.cache
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readability_Check.csproj.CopyComplete
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\blazor\unlinked.output
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\O-aoF36GZUNmWX5ud6KSaz2LpVps4HJBGtdT0M9Hiuc=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\ycn-UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
@@ -230,13 +228,11 @@ F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integri
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\xnbunzKgBMDRtcny-aTkbs3mTyxJX9y8u_h-odVsM5s=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\zPzUy7ksWEYWA3DvsNu79_CMXjye9M_nXlITerSkgq8=.hash
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\compressed\service-worker-assets.js.gz
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\compressed\_framework\_bin\Readability_Check.dll.gz
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
@@ -359,4 +355,7 @@ F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readabi
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\Readability_Check.pdb
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
-F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\FEC3FPBaUO1oFl7TsH5xTuB1kZInj4ch6jajPpzz-hk=.hash
+F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\FLwBqZMiaAql31wYrTgKebwen1fXH07Ir89LOz_6ucg=.hash
+F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\bhbbefJTJKeq8MYhMBnT9I9085A_ixeFHaILXheyeL4=.hash
+F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\ipm4iCFRL1MkNJk9hj6g1471oWFzLZ8lo2Fom6dYG7I=.hash
+F:\PROJECTS\Readability_Check\Readability_Check\obj\Debug\netstandard2.1\integrity\CIt7ZgeZQu6CGUhi6qj8LBW51CNvaRaa3sEAtHUJvho=.hash
