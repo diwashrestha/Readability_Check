@@ -60,13 +60,20 @@ using Microsoft.JSInterop;
 #nullable disable
 #nullable restore
 #line 8 "F:\PROJECTS\Readability_Check\Readability_Check\_Imports.razor"
-using Readability_Check;
+using BlazorInputFile;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 9 "F:\PROJECTS\Readability_Check\Readability_Check\_Imports.razor"
+using Readability_Check;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 10 "F:\PROJECTS\Readability_Check\Readability_Check\_Imports.razor"
 using Readability_Check.Shared;
 
 #line default

@@ -2,5 +2,27 @@
 @inject HttpClient Http
 
 
-<h3>Work is Going on</h3>
+<InputFile OnChange="HandleFileSelected" />
+
+@if (file != null)
+{@if (file.Type != "text/plain")
+    {
+        <p>This is not text file.</p>
+    }
+    <p>Name: @file.Type</p>
+    <p>Size in bytes: @file.Size</p>
+    <p>Last modified date: @file.LastModified.ToShortDateString()</p>
+    <p>Content type (not always supplied by the browser): @file.Type</p>
+
+
+}
+
+@code {
+    IFileListEntry file;
+
+    void HandleFileSelected(IFileListEntry[] files)
+    {
+        file = files.FirstOrDefault();
+    }
+}
 

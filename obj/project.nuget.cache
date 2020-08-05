@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LStrI0RkDk4nNeCELbmgDRIZVEPst9jBXikAxknrvtRkAMpEW4gMUm3TJtNOPxNaYT0tDxzM0hUBvUu7wW/RwA==",
+  "dgSpecHash": "4sNbiCnYdxYQZZjfPWqrGv+HtMO8NF0MU0PIhwv0oGkTeMEOpQ0MvRdc2TsShsq40QSc7FxboETDjM1zoX5yTw==",
   "success": true,
   "projectFilePath": "F:\\PROJECTS\\Readability_Check\\Readability_Check\\Readability_Check.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\blazorinputfile\\0.2.0\\blazorinputfile.0.2.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.3\\microsoft.aspnetcore.components.analyzers.3.1.3.nupkg.sha512",

@@ -1,4 +1,5 @@
 @page "/filetest"
+@inject HttpClient Http
 
 <div class="container">
     <div class="row row-no-gutters">
@@ -11,8 +12,9 @@
                     <form>
                         <div class="form-group">
                             <label for="fileInput">Select a text file.</label>
-                            <input type="file" class="form-control-file" id="fileInput" />
+                            <InputFile  OnChange="HandleFileSelected" />
                         </div>
+                        
                         <button type="submit" class="btn btn-primary">Check Readability</button>
                     </form>
                 </div>
@@ -22,3 +24,23 @@
 </div>
 
 <h4>Work in Progress</h4>
+@if (file != null)
+{@if (file.Type != "text/plain")
+    {
+        <p>This is not text file.</p>
+    }
+<p>Name: @file.Type</p>
+<p>Size in bytes: @file.Size</p>
+<p>Last modified date: @file.LastModified.ToShortDateString()</p>
+<p>Content type (not always supplied by the browser): @file.Type</p>
+
+
+}
+@code {
+    IFileListEntry file;
+
+    public void HandleFileSelected(IFileListEntry[] files)
+    {
+        file = files.FirstOrDefault();
+    }
+}
