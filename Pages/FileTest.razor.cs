@@ -281,6 +281,10 @@ namespace Readability_Check.Pages
             {
                 ageGroup = 24;
             }
+            else if (score > 14)
+            {
+                ageGroup = 25;
+            }
             return ageGroup;
         }
 
