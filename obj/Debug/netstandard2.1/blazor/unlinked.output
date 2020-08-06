@@ -37,6 +37,7 @@ obj\Debug\netstandard2.1\blazor\unlinked\System.Runtime.CompilerServices.Unsafe.
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.Bcl.AsyncInterfaces.dll
 obj\Debug\netstandard2.1\blazor\unlinked\System.Threading.Tasks.Extensions.dll
 obj\Debug\netstandard2.1\blazor\unlinked\System.Numerics.Vectors.dll
+obj\Debug\netstandard2.1\blazor\unlinked\Tewr.Blazor.FileReader.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.AspNetCore.Components.WebAssembly.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.Extensions.DependencyInjection.dll
 obj\Debug\netstandard2.1\blazor\unlinked\Microsoft.Extensions.Primitives.dll

@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\MnOrqs_LEqaAyM9et-tGBphwBofanuijJzlnZd4EQqU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1HGYI6wUN1muCVubyrifAXLSmDLyFW7wpyCFGygvfrM=.hash",
       "Source": "F:\\PROJECTS\\Readability_Check\\Readability_Check\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Readability_Check.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Readability_Check.dll.gz"
     },
@@ -196,6 +196,11 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.Vectors.dll.gz"
     },
     {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_8JsYr0nQtK1U5Ora9CZpNOUQSOY7TzFoOmWTAOtAW4=.hash",
+      "Source": "F:\\PROJECTS\\Readability_Check\\Readability_Check\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Tewr.Blazor.FileReader.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Tewr.Blazor.FileReader.dll.gz"
+    },
+    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash",
       "Source": "F:\\PROJECTS\\Readability_Check\\Readability_Check\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.WebAssembly.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
@@ -261,7 +266,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VsNcje1tbJ3o9YdZKzagPYQH7lEk5E5MBe531vYG0aQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ItibJZis8MwzpEJd3oKbD_7yCo-FoeMWADv5Pou_Khs=.hash",
       "Source": "F:\\PROJECTS\\Readability_Check\\Readability_Check\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Readability_Check.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Readability_Check.pdb.gz"
     },
@@ -286,12 +291,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\F38xaGl-Lq70PTmBbpwYOnBnVxgb7BSp4HqoC_jFmu8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\31n4Rb4yAtSTWYogXmWRngrgo656RlqvuBMSTyl9-ts=.hash",
       "Source": "F:\\PROJECTS\\Readability_Check\\Readability_Check\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\T75Za2jUd363-yKl1qTX1lIV1fyCHQrcNBNxVJCh_4Y=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9q6jwDgv0_9bOD-HgsjWdBg5vllFRTlKtBqJffxCV0U=.hash",
       "Source": "F:\\PROJECTS\\Readability_Check\\Readability_Check\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.gz"
     }

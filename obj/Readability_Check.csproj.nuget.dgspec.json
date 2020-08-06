@@ -46,6 +46,10 @@
               "target": "Package",
               "version": "[0.2.0, )"
             },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[3.2.0, )"
@@ -63,6 +67,10 @@
             "System.Net.Http.Json": {
               "target": "Package",
               "version": "[3.2.0, )"
+            },
+            "Tewr.Blazor.FileReader": {
+              "target": "Package",
+              "version": "[2.0.0.20200, )"
             }
           },
           "imports": [

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4sNbiCnYdxYQZZjfPWqrGv+HtMO8NF0MU0PIhwv0oGkTeMEOpQ0MvRdc2TsShsq40QSc7FxboETDjM1zoX5yTw==",
+  "dgSpecHash": "nmleWqkBpDL3nX7D1fDWJ8jTUJPLSvSeUV7wmwCsVe5rdU8wzpcWg9aOWLNE5Qqm94uwTShrNdCRFjGizUlfKQ==",
   "success": true,
   "projectFilePath": "F:\\PROJECTS\\Readability_Check\\Readability_Check\\Readability_Check.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\blazorinputfile\\0.2.0\\blazorinputfile.0.2.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.3\\microsoft.aspnetcore.components.analyzers.3.1.3.nupkg.sha512",
@@ -35,13 +36,16 @@
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.jsinterop.webassembly\\3.2.0\\microsoft.jsinterop.webassembly.3.2.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512",
-    "C:\\Users\\lenovo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\tewr.blazor.filereader\\2.0.0.20200\\tewr.blazor.filereader.2.0.0.20200.nupkg.sha512"
   ],
   "logs": []
 }

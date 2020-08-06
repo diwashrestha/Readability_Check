@@ -1,28 +1,41 @@
 ﻿@page "/about"
 @inject HttpClient Http
 
+    <div class="container">
+        <div class="row row-no-gutters">
+            <div class="col-sm-10 ">
+                <div class="card shadow-sm border-0">
+                    <div class="card-header text-center border-0">
+                        <h4 class="">Test By Direct Input</h4>
+                    </div>
+                    <div class="card-body">
+                        <p>
+                            Readability is the ease with which a reader can understand a written text. Readibility scores are approximation. This Readability Testing tool can find readbility score , age group and grade to understand the given writing using different formula. This tool can also find the number of charcters, words,sentences in given writing.
+                        </p>
+                    </div>
+                </div>
+                <div class="card shadow-sm border-0 mt-4">
+                    <div class="card-header text-center border-0 font-weight-bold">
+                        Readability formula
+                    </div>
+                    <div class="card-body">
+                        <h5>Flesch-Kincaid Grade Level</h5>
+                        Originally created to analyze the readabiliity of technical material. Now used widely and highly regarded for its reliability. Suitable for the grading of a wide range of writing and for all ages.<a href="https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests" target="_blank">Learn More.</a>
 
-<InputFile OnChange="HandleFileSelected" />
-
-@if (file != null)
-{@if (file.Type != "text/plain")
-    {
-        <p>This is not text file.</p>
-    }
-    <p>Name: @file.Type</p>
-    <p>Size in bytes: @file.Size</p>
-    <p>Last modified date: @file.LastModified.ToShortDateString()</p>
-    <p>Content type (not always supplied by the browser): @file.Type</p>
-
-
-}
-
-@code {
-    IFileListEntry file;
-
-    void HandleFileSelected(IFileListEntry[] files)
-    {
-        file = files.FirstOrDefault();
-    }
-}
-
+                    </div>
+                    <div class="card-body">
+                        <h5>Coleman-Liau Index</h5>
+                        A character-calculated formula suitable for a wide range of texts and for all ages, and especially useful within education.<a href="https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests" target="_blank">Learn More.</a>
+                    </div>
+                    <div class="card-body">
+                        <h5>SMOG Index</h5>
+                        Applicable to a range of texts and ages but has been proven particularly useful in healthcare literature.<a href="https://en.wikipedia.org/wiki/SMOG" target="_blank">Learn More.</a>
+                    </div>
+                    <div class="card-body">
+                        <h5>Automated Readability Index</h5>
+                        A character-calculated formula suitable for a wide range of texts and ages but proven especially useful in technical writing.<a href="https://en.wikipedia.org/wiki/Automated_readability_index" target="_blank">Learn More.</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

@@ -83,6 +83,13 @@ using Readability_Check.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "F:\PROJECTS\Readability_Check\Readability_Check\_Imports.razor"
+using Readability_Check.Pages;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

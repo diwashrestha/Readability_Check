@@ -1,11 +1,19 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-9ii4qjKGPvpLTaicCQnJv0mciOW8fP4btmKpFYjgN78=",
+      "url": "_content\/Tewr.Blazor.FileReader\/FileReaderComponent.js"
+    },
+    {
+      "hash": "sha256-eeZxFDw9wtGefPyX5fYtEPuCS\/VyBK8\/FfeXUOo5zF4=",
+      "url": "_content\/Tewr.Blazor.FileReader\/FileReaderComponent.js.map"
+    },
+    {
       "hash": "sha256-\/n8hxridi+BE7KMcprL53dUE3gYZvzuPp3syUZ07ims=",
       "url": "_content\/BlazorInputFile\/inputfile.js"
     },
     {
-      "hash": "sha256-kE5KNhi0O6XhQ8O5eNmvNASOXWLMZ5qq8Ad2ahmAID4=",
+      "hash": "sha256-KhHrH9gp0Luc3lfg57JQk0QBN72XP5eMLblt9DgK5GI=",
       "url": "css\/app.css"
     },
     {
@@ -77,7 +85,7 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-MnOrqs+LEqaAyM9et\/tGBphwBofanuijJzlnZd4EQqU=",
+      "hash": "sha256-1HGYI6wUN1muCVubyrifAXLSmDLyFW7wpyCFGygvfrM=",
       "url": "_framework\/_bin\/Readability_Check.dll"
     },
     {
@@ -233,6 +241,10 @@
       "url": "_framework\/_bin\/System.Numerics.Vectors.dll"
     },
     {
+      "hash": "sha256-+8JsYr0nQtK1U5Ora9CZpNOUQSOY7TzFoOmWTAOtAW4=",
+      "url": "_framework\/_bin\/Tewr.Blazor.FileReader.dll"
+    },
+    {
       "hash": "sha256-sifIvl02zqfSiv67ZRAsSa+NCvhMgTGrIUNuK8LmCNM=",
       "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
@@ -285,7 +297,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-VsNcje1tbJ3o9YdZKzagPYQH7lEk5E5MBe531vYG0aQ=",
+      "hash": "sha256-ItibJZis8MwzpEJd3oKbD+7yCo\/FoeMWADv5Pou+Khs=",
       "url": "_framework\/_bin\/Readability_Check.pdb"
     },
     {
@@ -305,7 +317,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-F38xaGl\/Lq70PTmBbpwYOnBnVxgb7BSp4HqoC+jFmu8=",
+      "hash": "sha256-31n4Rb4yAtSTWYogXmWRngrgo656RlqvuBMSTyl9\/ts=",
       "url": "_framework\/blazor.boot.json"
     }
   ],

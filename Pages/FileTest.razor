@@ -11,11 +11,17 @@
                 <div class="card-body">
                     <form>
                         <div class="form-group">
-                            <label for="fileInput">Select a text file.</label>
-                            <InputFile  OnChange="HandleFileSelected" />
+                            <label for="fileInput">Select a text file:</label>
+                            <InputFile OnChange="HandleFileSelected" />
+                            @if (file != null && file.Type != "text/plain")
+                            {
+                                <p class="font-weight-bold text-danger">File Type is Not allowed. Select Text file.</p>
+                            }
                         </div>
-                        
-                        <button type="submit" class="btn btn-primary">Check Readability</button>
+                        @if (file != null && file.Type == "text/plain")
+                        {
+                            <button type="button" class="btn btn-primary" @onclick="ReadableCheckAsync">Check Readability</button>
+                        }
                     </form>
                 </div>
             </div>
@@ -23,24 +29,93 @@
     </div>
 </div>
 
-<h4>Work in Progress</h4>
-@if (file != null)
-{@if (file.Type != "text/plain")
-    {
-        <p>This is not text file.</p>
-    }
-<p>Name: @file.Type</p>
-<p>Size in bytes: @file.Size</p>
-<p>Last modified date: @file.LastModified.ToShortDateString()</p>
-<p>Content type (not always supplied by the browser): @file.Type</p>
+<div hidden="@IsShow" class="container mt-4">
+    <div class="row row-no-gutters">
+        <div class="col-sm-10">
+            <div class="card ">
+                <div class="card-header text-center">
+                    <h5>Text</h5>
+                </div>
+                <div class="card-body">
+                    <p>@userInput</p>
+                </div>
+            </div>
+            <div class="card shadow-sm border-0 mt-4">
+                <div class="card-header text-center border-0">
+                    <h5>Test Result</h5>
+                </div>
+                <div class="card-body">
+                    <p> This Text has grade level of <b>@avgGradeLevel</b>. It should be understood on average by <b>@avgAge</b> years olds.</p>
+                    <h5>Text Statistics</h5>
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <td>No. of Characters</td>
+                                <td>@characterCount</td>
 
+                            </tr>
+                            <tr>
+                                <td>No. of Words</td>
+                                <td>@wordCount</td>
 
-}
-@code {
-    IFileListEntry file;
+                            </tr>
+                            <tr>
+                                <td>No. of Sentence</td>
+                                <td>@sentenceCount</td>
 
-    public void HandleFileSelected(IFileListEntry[] files)
-    {
-        file = files.FirstOrDefault();
-    }
-}
+                            </tr>
+                            <tr>
+                                <td>No. of Syllable</td>
+                                <td>@syllableCount</td>
+                            </tr>
+                            <tr>
+                                <td>Avg Word Per Sentence</td>
+                                <td>@avgWordCount</td>
+                            </tr>
+                            <tr>
+                                <td>Avg Character Per Word</td>
+                                <td>@avgCharacterCount</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h5>Readability Grade Levels</h5>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Test</th>
+                                <th scope="col">Score</th>
+                                <th scope="col">Age</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Flesch Kincaid readability Test</td>
+                                <td>@fkrScore</td>
+                                <td>@fkrAge</td>
+
+                            </tr>
+                            <tr>
+                                <td>Automated Readability Index</td>
+                                <td>@ariScore</td>
+                                <td>@ariAge</td>
+
+                            </tr>
+                            <tr>
+                                <td>Simple Measure of Gobbledygook</td>
+                                <td>@smgScore</td>
+                                <td>@smgAge</td>
+
+                            </tr>
+                            <tr>
+                                <td>Coleman Liau index</td>
+                                <td>@cliScore</td>
+                                <td>@cliAge</td>
+
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
