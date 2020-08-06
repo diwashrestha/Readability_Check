@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Readability_Check.dll": "sha256-1HGYI6wUN1muCVubyrifAXLSmDLyFW7wpyCFGygvfrM=",
+      "Readability_Check.dll": "sha256-tAcS+JN81uM2Xi9W5f84u9h8Tm\/brIhCk9Ex1RJ5olg=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-ycn\/UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
       "System.Xml.Linq.dll": "sha256-IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=",
@@ -61,7 +61,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-dwm+rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs="
     },
     "pdb": {
-      "Readability_Check.pdb": "sha256-ItibJZis8MwzpEJd3oKbD+7yCo\/FoeMWADv5Pou+Khs="
+      "Readability_Check.pdb": "sha256-HQt1I86\/KHGx3yoR5H5MtKt9Al2e8dkXEgEMmqQe5HE="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",
