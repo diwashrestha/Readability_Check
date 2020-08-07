@@ -12,7 +12,7 @@ To use this tool , go to : [Github Page](https://diwashrestha.github.io/Readabil
 
 ## ScreenShot
 ### Text Test
-![Text Test](./images/Readabli.png)
+![Text Test](./images/Readabli2.png)
 
 ### File Test
-![File Test](./images/Readabli2.png)
+![File Test](./images/Readabli3.png)
