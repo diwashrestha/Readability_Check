@@ -37,10 +37,6 @@ namespace Readability_Check.Pages
             ReadScore();
             SyllablesCount();
             AvgTest();
-            AriTest();
-            FkrTest();
-            SmogTest();
-            CliTest();
             Show();
             AvgWord();
 
@@ -96,6 +92,8 @@ namespace Readability_Check.Pages
         {
             char[] charsToTrim = { '.', '!', '?' };
             char[] vowelLetter = { 'a', 'e', 'i', 'o', 'u', 'y' };
+            syllableCount = 0;
+            polysyllableCount = 0;
             bool prevVowel;
             bool isPolysyllable = false;
             int localSyllableCount = 0;
