@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Text.RegularExpressions;
 
@@ -39,7 +39,6 @@ namespace Readability_Check.Pages
             AvgTest();
             Show();
             AvgWord();
-
         }
 
         public void AvgWord()
