@@ -6,7 +6,7 @@ This is a tool which will find the Readability score, grade and age required to 
 ## Technologies 💻
 Project is created with:
 * C#
-* Blazor
+* Blazor Webassembly
 * Github Action
 * Github Page
 
